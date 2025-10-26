@@ -22,6 +22,7 @@
 - [Results & Evaluation](#results--evaluation)
 - [Technical Innovation](#technical-innovation)
 - [Future Enhancements](#future-enhancements)
+- [Contribution](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -251,7 +252,7 @@ NORMALIZED (Non-Attack Patterns):
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/web-attack-detection.git
+git clone https://github.com/SameenMubashar/NetLog-NLP-Classifier
 cd web-attack-detection
 ```
 
@@ -472,12 +473,12 @@ TRAINING_CONFIG = {
 ### Visualization
 
 #### Confusion Matrix
-![Confusion Matrix](docs/confusion_matrix.png)
+![Confusion Matrix](Confusion_matrix.png)
 
 *Perfect separation between normal and attack traffic with minimal misclassifications*
 
 #### ROC Curve
-![ROC Curve](docs/roc_curve.png)
+![ROC Curve](ROC_curve.png)
 
 *Near-perfect ROC curve demonstrating excellent discrimination capability*
 
@@ -607,7 +608,7 @@ Top attack indicators learned by the model:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
@@ -657,7 +658,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 [Sameen_Mubashar]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
